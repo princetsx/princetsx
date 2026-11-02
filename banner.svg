@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Prince Raj - Discord Bot and Frontend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0F766E"/>
+      <stop offset="50%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="240" fill="url(#bg)"/>
+  <path d="M0 190 C 150 150, 300 230, 500 190 S 850 150, 1000 195 L1000 240 L0 240 Z" fill="#ffffff" fill-opacity="0.12"/>
+  <path d="M0 210 C 200 180, 350 240, 550 210 S 850 185, 1000 215 L1000 240 L0 240 Z" fill="#ffffff" fill-opacity="0.12"/>
+  <text x="500" y="105" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Hi, I am Prince Raj</text>
+  <text x="500" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" fill-opacity="0.95">Discord Bot &amp; Frontend Developer  ·  JEE Aspirant  ·  Class 12</text>
+</svg>
