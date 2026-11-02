@@ -2,20 +2,20 @@
   FRONTEND DEVELOPER GITHUB PROFILE README
   Find & replace these placeholders before publishing:
     YOUR_GITHUB_USERNAME  -> your GitHub username
-    YOUR_NAME             -> your full name
+    (Name, location and JEE details are already filled in for Prince Raj)
     YOUR_LINKEDIN_URL / YOUR_EMAIL / YOUR_PORTFOLIO_URL
   Remove any section or badge you don't want. Don't claim skills you don't have.
 ============================================================ -->
 
 <!-- ================= HEADER BANNER ================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F766E,50:0EA5E9,100:7C3AED&text=Hi%2C%20I'm%20YOUR_NAME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20UI%20Enthusiast%20%C2%B7%20Pixel%20Perfectionist&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F766E,50:0EA5E9,100:7C3AED&text=Hi%2C%20I'm%20Prince%20Raj&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Frontend%20Developer%20%C2%B7%20JEE%20Aspirant%20%C2%B7%20Class%2012&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" />
 </div>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Crafting+fast+%26+accessible+web+interfaces;Turning+designs+into+pixel-perfect+code;Obsessed+with+performance+and+UX;Always+learning%2C+always+shipping" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Class+12+student+from+Bihar+Sharif%2C+India;Preparing+for+JEE+with+focus+and+discipline;Learning+to+build+clean+%26+responsive+web+interfaces;Balancing+Physics%2C+Chemistry%2C+Maths+and+code" alt="Typing animation" />
   </a>
 </div>
 
@@ -25,7 +25,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0F766E&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-7C3AED?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Preparing%20for-JEE-7C3AED?style=for-the-badge" alt="Preparing for JEE" />
+  <img src="https://img.shields.io/badge/Location-Bihar%20Sharif%2C%20India-0F766E?style=for-the-badge" alt="Location" />
 </div>
 
 <br />
@@ -35,18 +36,19 @@
 
 ```js
 const developer = {
-  name: "YOUR_NAME",
-  role: "Frontend Developer",
-  location: "YOUR_CITY, YOUR_COUNTRY",           // TODO: optional
-  focus: ["Responsive UI", "Accessibility", "Web Performance"],
-  currentlyLearning: ["TODO: e.g. Next.js", "TODO: e.g. TypeScript"],
-  currentlyBuilding: "TODO: your current project",
+  name: "Prince Raj",
+  status: "Class 12 student",
+  location: "Bihar Sharif, Nalanda, Bihar, India",
+  currentGoal: "Cracking JEE",
+  codingInterest: "Frontend Development",
+  currentlyLearning: ["HTML", "CSS", "JavaScript"],   // TODO: update to what you actually study
+  currentlyBuilding: "TODO: your first project (e.g. portfolio website)",
   funFact: "TODO: something memorable about you",
-  lookingFor: "TODO: e.g. frontend roles, freelance, open-source collabs",
+  lookingFor: "Learning, mentorship, and beginner-friendly collaborations",
 };
 ```
 
-> 💡 *"TODO: add a short personal motto or philosophy about building for the web."*
+> 💡 *"Studying hard for JEE by day, building things for the web whenever I can."*
 
 <br />
 
@@ -168,7 +170,7 @@ const developer = {
 <!-- ================= CONNECT ================= -->
 ## 🤝 Let's Connect
 
-I'm always open to talking about frontend, design systems, and new opportunities.
+I'm happy to connect with fellow JEE aspirants, developers, and anyone who loves learning and building.
 
 <p>
   <a href="YOUR_LINKEDIN_URL">
