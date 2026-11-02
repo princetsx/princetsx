@@ -9,13 +9,13 @@
 
 <!-- ================= HEADER BANNER ================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F766E,50:0EA5E9,100:7C3AED&text=Hi%2C%20I'm%20Prince%20Raj&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Frontend%20Developer%20%C2%B7%20JEE%20Aspirant%20%C2%B7%20Class%2012&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F766E,50:0EA5E9,100:7C3AED&text=Hi%2C%20I'm%20Prince%20Raj&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Discord%20Bot%20%26%20Frontend%20Developer%20%C2%B7%20JEE%20Aspirant%20%C2%B7%20Class%2012&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" />
 </div>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Class+12+student+from+Bihar+Sharif%2C+India;Preparing+for+JEE+with+focus+and+discipline;Learning+to+build+clean+%26+responsive+web+interfaces;Balancing+Physics%2C+Chemistry%2C+Maths+and+code" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Class+12+student+from+Bihar+Sharif%2C+India;Preparing+for+JEE+with+focus+and+discipline;Discord+bot+developer+%7C+Creator+of+Kira;Learning+to+build+clean+%26+responsive+web+interfaces" alt="Typing animation" />
   </a>
 </div>
 
@@ -40,9 +40,10 @@ const developer = {
   status: "Class 12 student",
   location: "Bihar Sharif, Nalanda, Bihar, India",
   currentGoal: "Cracking JEE",
-  codingInterest: "Frontend Development",
+  codingInterest: ["Discord Bot Development", "Frontend Development"],
+  pastProject: "Kira - a Discord music bot",
   currentlyLearning: ["HTML", "CSS", "JavaScript"],   // TODO: update to what you actually study
-  currentlyBuilding: "TODO: your first project (e.g. portfolio website)",
+  currentlyBuilding: "A Discord utility bot",
   funFact: "TODO: something memorable about you",
   lookingFor: "Learning, mentorship, and beginner-friendly collaborations",
 };
@@ -75,6 +76,13 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,npm,vscode,figma&perline=8" alt="Tools" />
 </p>
 
+**Discord Bot Development**
+
+<!-- TODO: Add the language/library you use for your bots (e.g. nodejs for discord.js, py for discord.py) to this list. -->
+<p>
+  <img src="https://skillicons.dev/icons?i=discord&perline=8" alt="Discord" />
+</p>
+
 **Learning / Exploring**
 
 <p>
@@ -91,20 +99,20 @@ const developer = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔹 TODO: Project One</h3>
-      <p>TODO: One-line description of what it does and why it matters.</p>
+      <h3>🛠️ Utility Bot (In Progress)</h3>
+      <p>A Discord utility bot I'm currently building. TODO: add 1-2 real features (e.g. moderation, tools, info commands).</p>
       <p>
-        <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-0F766E?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord%20Bot-5865F2?style=flat-square&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-In%20Progress-0F766E?style=flat-square" />
       </p>
       <a href="YOUR_REPO_URL">Repository</a> · <a href="YOUR_LIVE_URL">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 TODO: Project Two</h3>
-      <p>TODO: One-line description of what it does and why it matters.</p>
+      <h3>🎵 Kira - Music Bot</h3>
+      <p>A Discord music bot I built earlier for playing music in voice channels. TODO: add real features (e.g. queue, playlists, filters).</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord%20Bot-5865F2?style=flat-square&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/Music-7C3AED?style=flat-square" />
       </p>
       <a href="YOUR_REPO_URL">Repository</a> · <a href="YOUR_LIVE_URL">Live Demo</a>
     </td>
@@ -160,7 +168,8 @@ const developer = {
 
 <!-- TODO: Optional. Add real achievements, or delete this section. -->
 
-- 🔭 Working on: **TODO**
+- 🔭 Working on: **A Discord utility bot**
+- 🎵 Previously built: **Kira, a Discord music bot**
 - 🌱 Learning: **TODO**
 - 📝 Latest write-up / blog post: **TODO** ([link](YOUR_BLOG_URL))
 - 🏆 Achievement / certification: **TODO**
@@ -183,6 +192,7 @@ I'm happy to connect with fellow JEE aspirants, developers, and anyone who loves
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <!-- Optional extras: uncomment & edit
+  <a href="YOUR_DISCORD_SERVER_OR_PROFILE_URL"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="YOUR_CODEPEN_URL"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
   -->
