@@ -9,7 +9,7 @@
 
 <!-- ================= HEADER BANNER ================= -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/princetsx/princetsx/main/banner.svg" alt="Prince Raj banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F766E,50:0EA5E9,100:7C3AED&text=Hi%2C%20I%20am%20Prince%20Raj&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Discord%20Bot%20%26%20Frontend%20Developer%20%7C%20JEE%20Aspirant%20%7C%20Class%2012&descSize=18&descAlignY=58&animation=fadeIn" alt="Prince Raj banner" />
 </div>
 
 <!-- ================= TYPING ANIMATION ================= -->
@@ -178,5 +178,5 @@ I'm happy to connect with fellow JEE aspirants, developers, and anyone who loves
 
 <!-- ================= FOOTER ================= -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/princetsx/princetsx/main/footer.svg" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,50:0EA5E9,100:0F766E&section=footer" alt="Footer" />
 </div>
