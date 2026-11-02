@@ -9,7 +9,7 @@
 
 <!-- ================= HEADER BANNER ================= -->
 <div align="center">
-  <img width="100%" src="./banner.svg" alt="Prince Raj banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/princetsx/princetsx/main/banner.svg" alt="Prince Raj banner" />
 </div>
 
 <!-- ================= TYPING ANIMATION ================= -->
@@ -178,5 +178,5 @@ I'm happy to connect with fellow JEE aspirants, developers, and anyone who loves
 
 <!-- ================= FOOTER ================= -->
 <div align="center">
-  <img width="100%" src="./footer.svg" alt="Footer" />
+  <img width="100%" src="https://raw.githubusercontent.com/princetsx/princetsx/main/footer.svg" alt="Footer" />
 </div>
