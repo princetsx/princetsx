@@ -1,106 +1,192 @@
-<!-- TODO: Replace all TODO comments below with your real details before publishing. -->
+<!-- ============================================================
+  FRONTEND DEVELOPER GITHUB PROFILE README
+  Find & replace these placeholders before publishing:
+    YOUR_GITHUB_USERNAME  -> your GitHub username
+    YOUR_NAME             -> your full name
+    YOUR_LINKEDIN_URL / YOUR_EMAIL / YOUR_PORTFOLIO_URL
+  Remove any section or badge you don't want. Don't claim skills you don't have.
+============================================================ -->
 
-<h1 align="center">Hi, I'm <!-- TODO: Your Name --></h1>
+<!-- ================= HEADER BANNER ================= -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F766E,50:0EA5E9,100:7C3AED&text=Hi%2C%20I'm%20YOUR_NAME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20UI%20Enthusiast%20%C2%B7%20Pixel%20Perfectionist&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" />
+</div>
 
-<p align="center">
-  <!-- TODO: Your professional title, e.g. Full-Stack Developer -->
-  <strong>Developer</strong>
-</p>
+<!-- ================= TYPING ANIMATION ================= -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Crafting+fast+%26+accessible+web+interfaces;Turning+designs+into+pixel-perfect+code;Obsessed+with+performance+and+UX;Always+learning%2C+always+shipping" alt="Typing animation" />
+  </a>
+</div>
 
-<p align="center">
-  <!-- TODO: Add a concise personal tagline. -->
-  Building thoughtful, reliable software and continuously learning.
-</p>
+<br />
 
-<p align="center">
-  <!-- TODO: Optional—add a typing banner after replacing the text and username. -->
-  <!--
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=0F766E&center=true&vCenter=true&width=600&lines=Your+tagline+here" alt="Typing banner" />
-  -->
-</p>
+<!-- ================= QUICK BADGES ================= -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0F766E&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-7C3AED?style=for-the-badge" alt="Open to opportunities" />
+</div>
 
----
+<br />
 
-## About Me
+<!-- ================= ABOUT ================= -->
+## 👨‍💻 About Me
 
-<!-- TODO: Replace these lines with a concise 3–4 line introduction. -->
+```js
+const developer = {
+  name: "YOUR_NAME",
+  role: "Frontend Developer",
+  location: "YOUR_CITY, YOUR_COUNTRY",           // TODO: optional
+  focus: ["Responsive UI", "Accessibility", "Web Performance"],
+  currentlyLearning: ["TODO: e.g. Next.js", "TODO: e.g. TypeScript"],
+  currentlyBuilding: "TODO: your current project",
+  funFact: "TODO: something memorable about you",
+  lookingFor: "TODO: e.g. frontend roles, freelance, open-source collabs",
+};
+```
 
-I'm a <!-- TODO: experience level --> developer based in <!-- TODO: City, Country (optional) -->.  
-I focus on <!-- TODO: your primary area of interest or specialization -->.  
-Currently learning: **<!-- TODO: technologies -->**.  
-Currently building: **<!-- TODO: project names -->**.
+> 💡 *"TODO: add a short personal motto or philosophy about building for the web."*
 
-## Tech Stack
+<br />
 
-<!-- TODO: Keep only the badges that accurately represent your skills. -->
-<!-- Theme: dark blue + teal (#0F766E). -->
+<!-- ================= TECH STACK ================= -->
+## 🛠️ Tech Stack
 
-**Languages**
+<!-- TODO: Keep only the icons you actually use. Full icon list: https://skillicons.dev -->
+
+**Core**
 
 <p>
-  <!-- TODO: Add your language badges. -->
-  <img src="https://img.shields.io/badge/Python-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0F766E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=8" alt="Core" />
 </p>
 
 **Frameworks & Libraries**
 
 <p>
-  <!-- TODO: Add your framework/library badges. -->
-  <img src="https://img.shields.io/badge/React-0F766E?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0F766E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,bootstrap&perline=8" alt="Frameworks" />
 </p>
 
-**Databases & Tools**
+**Tooling & Workflow**
 
 <p>
-  <!-- TODO: Add your database and tooling badges. -->
-  <img src="https://img.shields.io/badge/Git-0F766E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-0F766E?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,npm,vscode,figma&perline=8" alt="Tools" />
 </p>
 
-## Featured Projects
-
-<!-- TODO: Replace this example row with 3–6 real projects. -->
-
-| Project | Description | Tech | Links |
-| --- | --- | --- | --- |
-| <!-- TODO: Project name --> | <!-- TODO: One-line description --> | <!-- TODO: Tech stack --> | [Repository](<!-- TODO: repository URL -->) · [Live Demo](<!-- TODO: live URL, or remove -->) |
-| <!-- TODO: Project name --> | <!-- TODO: One-line description --> | <!-- TODO: Tech stack --> | [Repository](<!-- TODO: repository URL -->) |
-| <!-- TODO: Project name --> | <!-- TODO: One-line description --> | <!-- TODO: Tech stack --> | [Repository](<!-- TODO: repository URL -->) |
-
-## GitHub Stats
-
-<!-- TODO: Replace YOUR_GITHUB_USERNAME in all three URLs. -->
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=0F766E&icon_color=0F766E" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=0F766E" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" alt="GitHub contribution streak" />
-</p>
-
-## Activity
-
-<!-- TODO: Optional—add recent blog posts, open-source work, certifications, or remove this section. -->
-
-- <!-- TODO: Recent achievement, blog post, or project update -->
-- <!-- TODO: Recent achievement, blog post, or project update -->
-
-## Let's Connect
-
-<!-- TODO: Replace links and remove any platforms you do not use. -->
+**Learning / Exploring**
 
 <p>
-  <a href="<!-- TODO: LinkedIn URL -->">
-    <img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=nodejs,jest,storybook&perline=8" alt="Learning" />
+</p>
+
+<br />
+
+<!-- ================= FEATURED PROJECTS ================= -->
+## 🚀 Featured Projects
+
+<!-- TODO: Replace with 3-6 real projects. Add a screenshot/GIF per project for maximum impact. -->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 TODO: Project One</h3>
+      <p>TODO: One-line description of what it does and why it matters.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-0F766E?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <a href="YOUR_REPO_URL">Repository</a> · <a href="YOUR_LIVE_URL">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 TODO: Project Two</h3>
+      <p>TODO: One-line description of what it does and why it matters.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="YOUR_REPO_URL">Repository</a> · <a href="YOUR_LIVE_URL">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 TODO: Project Three</h3>
+      <p>TODO: One-line description of what it does and why it matters.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+      </p>
+      <a href="YOUR_REPO_URL">Repository</a> · <a href="YOUR_LIVE_URL">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 TODO: Project Four</h3>
+      <p>TODO: One-line description of what it does and why it matters.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <a href="YOUR_REPO_URL">Repository</a> · <a href="YOUR_LIVE_URL">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
+
+<!-- Replace YOUR_GITHUB_USERNAME. Theme "tokyonight" looks good on both light & dark pages. -->
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=7C3AED&currStreakLabel=0EA5E9" alt="Contribution streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=0EA5E9&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+</div>
+
+<br />
+
+<!-- ================= ACTIVITY ================= -->
+## ✨ Currently / Recently
+
+<!-- TODO: Optional. Add real achievements, or delete this section. -->
+
+- 🔭 Working on: **TODO**
+- 🌱 Learning: **TODO**
+- 📝 Latest write-up / blog post: **TODO** ([link](YOUR_BLOG_URL))
+- 🏆 Achievement / certification: **TODO**
+
+<br />
+
+<!-- ================= CONNECT ================= -->
+## 🤝 Let's Connect
+
+I'm always open to talking about frontend, design systems, and new opportunities.
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:<!-- TODO: email address -->">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="<!-- TODO: portfolio URL -->">
-    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  <!-- Optional extras: uncomment & edit
+  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="YOUR_CODEPEN_URL"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+  -->
 </p>
+
+<!-- ================= FOOTER ================= -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,50:0EA5E9,100:0F766E&section=footer" alt="Footer" />
+</div>
