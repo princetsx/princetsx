@@ -1,7 +1,7 @@
 <!-- ============================================================
   FRONTEND DEVELOPER GITHUB PROFILE README
   Find & replace these placeholders before publishing:
-    YOUR_GITHUB_USERNAME  -> your GitHub username
+    princetsx  -> your GitHub username
     (Name, location and JEE details are already filled in for Prince Raj)
     YOUR_LINKEDIN_URL / YOUR_EMAIL / YOUR_PORTFOLIO_URL
   Remove any section or badge you don't want. Don't claim skills you don't have.
@@ -23,8 +23,8 @@
 
 <!-- ================= QUICK BADGES ================= -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0F766E&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=princetsx&label=Profile%20Views&color=0F766E&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/princetsx?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Preparing%20for-JEE-7C3AED?style=for-the-badge" alt="Preparing for JEE" />
   <img src="https://img.shields.io/badge/Location-Bihar%20Sharif%2C%20India-0F766E?style=for-the-badge" alt="Location" />
 </div>
@@ -94,13 +94,11 @@ const developer = {
 <!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured Projects
 
-<!-- TODO: Replace with 3-6 real projects. Add a screenshot/GIF per project for maximum impact. -->
-
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛠️ Utility Bot (In Progress)</h3>
-      <p>A Discord utility bot I'm currently building. TODO: add 1-2 real features (e.g. moderation, tools, info commands).</p>
+      <p>A Discord utility bot I'm currently building.</p>
       <p>
         <img src="https://img.shields.io/badge/Discord%20Bot-5865F2?style=flat-square&logo=discord&logoColor=white" />
         <img src="https://img.shields.io/badge/Status-In%20Progress-0F766E?style=flat-square" />
@@ -109,30 +107,10 @@ const developer = {
     </td>
     <td width="50%" valign="top">
       <h3>🎵 Kira - Music Bot</h3>
-      <p>A Discord music bot I built earlier for playing music in voice channels. TODO: add real features (e.g. queue, playlists, filters).</p>
+      <p>A Discord music bot I built earlier for playing music in voice channels.</p>
       <p>
         <img src="https://img.shields.io/badge/Discord%20Bot-5865F2?style=flat-square&logo=discord&logoColor=white" />
         <img src="https://img.shields.io/badge/Music-7C3AED?style=flat-square" />
-      </p>
-      <a href="YOUR_REPO_URL">Repository</a> · <a href="YOUR_LIVE_URL">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 TODO: Project Three</h3>
-      <p>TODO: One-line description of what it does and why it matters.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-      </p>
-      <a href="YOUR_REPO_URL">Repository</a> · <a href="YOUR_LIVE_URL">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 TODO: Project Four</h3>
-      <p>TODO: One-line description of what it does and why it matters.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
       <a href="YOUR_REPO_URL">Repository</a> · <a href="YOUR_LIVE_URL">Live Demo</a>
     </td>
@@ -144,21 +122,21 @@ const developer = {
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME. Theme "tokyonight" looks good on both light & dark pages. -->
+<!-- Replace princetsx. Theme "tokyonight" looks good on both light & dark pages. -->
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=princetsx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princetsx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=7C3AED&currStreakLabel=0EA5E9" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=princetsx&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=7C3AED&currStreakLabel=0EA5E9" alt="Contribution streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=0EA5E9&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=princetsx&bg_color=0D1117&color=0EA5E9&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
 </div>
 
 <br />
