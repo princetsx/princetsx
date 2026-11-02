@@ -125,8 +125,8 @@ const developer = {
 <!-- Replace princetsx. Theme "tokyonight" looks good on both light & dark pages. -->
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=princetsx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princetsx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=princetsx&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=princetsx&theme=github_dark" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -136,7 +136,7 @@ const developer = {
 <br />
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=princetsx&bg_color=0D1117&color=0EA5E9&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="95%" src="https://ghchart.rshah.org/0EA5E9/princetsx" alt="Contribution graph" />
 </div>
 
 <br />
